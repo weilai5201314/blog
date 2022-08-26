@@ -2,6 +2,8 @@
 title: mac连接数据库
 categories:
 - mac 替换问题
+tags:
+- sql
 ---
 # mac连接数据库.clion(转载)
 
