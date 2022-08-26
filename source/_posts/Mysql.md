@@ -3,7 +3,7 @@ title: Mysql
 tags: 
 - sql
 ---
-# 数据库笔记
+# Mysql
 
 >数据库==database
 >
