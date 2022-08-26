@@ -1,5 +1,7 @@
 ---
-title: mac中的替代
+title: mac sleep库
+categories:
+- mac 替换问题
 ---
 
 ## sleep

@@ -1,5 +1,7 @@
 ---
-title: Linux mistake
+title: Linux那些事
+categories:
+- Linux
 ---
 # Linux安装中文字体
 

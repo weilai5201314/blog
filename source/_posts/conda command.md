@@ -1,5 +1,7 @@
 ---
 title: conda command
+categories:
+- doc
 ---
 # conda command
 

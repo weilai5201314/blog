@@ -1,5 +1,7 @@
 ---
-title: Markdown doc
+title: Markdown教程
+categories:
+- doc
 ---
 # Markdown格式教程
 > markdown格式的讲解

@@ -1,5 +1,7 @@
 ---
-title: Shell doc
+title: Shell指令
+categories:
+- doc
 ---
 # **Shell**
 

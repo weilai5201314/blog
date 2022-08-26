@@ -1,5 +1,7 @@
 ---
-title: Homebrew
+title: Homebrew指令
+categories:
+- doc
 ---
 # Brew
 [toc]
