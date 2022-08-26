@@ -1,3 +1,6 @@
+---
+title: Linux mistake
+---
 # Linux安装中文字体
 
 ## CentOS安装中文字体
