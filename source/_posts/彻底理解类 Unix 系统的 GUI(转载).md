@@ -1,5 +1,7 @@
 ---
 title: 彻底理解类 Unix 系统的 GUI（转载）
+categories:
+- Linux
 ---
 # 彻底理解类 Unix 系统的 GUI（转载）
 
